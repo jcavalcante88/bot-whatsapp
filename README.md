@@ -2,9 +2,9 @@
 
 Bot de **atendimento automático para WhatsApp** com **menu interativo**. Ao receber uma mensagem, responde com opções e guia o cliente por um fluxo de atendimento, mantendo o estado da conversa por usuário. Ideal para pequenos negócios que querem atender clientes 24/7.
 
-<!-- 📸 DICA: adicione um print/GIF do bot respondendo. Salve na raiz e descomente:
-![Bot em ação](demo.png)
--->
+<p align="center">
+  <img src="demo.jpg" alt="Bot respondendo automaticamente no WhatsApp" width="380">
+</p>
 
 ---
 
